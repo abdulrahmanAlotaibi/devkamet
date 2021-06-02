@@ -13,7 +13,6 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 | Tech        | Alternative           
 | ------------- |:-------------
 | Figma for UI/UX 🎨 | Adobe XD
-
 | React 🖼    | Vue
 | TailwindCSS  ✨ | Sass, CSS in JS 
 | Node  ⚡   | Go

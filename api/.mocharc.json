@@ -1,0 +1,3 @@
+{
+  "reporter": "@mochajs/json-file-reporter"
+}

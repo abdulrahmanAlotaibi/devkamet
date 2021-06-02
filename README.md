@@ -6,8 +6,8 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 ## 🎈 *Open source* Fullstack project to learn software engineering from front to back with large codebase!
 
 ## Motivations 🔭
-- There is no a lot of codebases to learn fullstack engineering
-- This is a product iteration that is not completed yet
+- The lack of medium to large codebases to learn fullstack engineering
+- This is a product iteration that is **not completed yet**
 - Open source code for possible contributions
 
 | Tech        | Alternative           

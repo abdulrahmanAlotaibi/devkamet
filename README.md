@@ -25,7 +25,7 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 | Yarn 🎠
 | Cybress for testing 🧪
 
-Pre-requisite
+### Pre-requisite
 - [Docker](https://docs.docker.com/docker-for-windows/install/)
 - [Yarn](https://yarnpkg.com/)
 - [Node](https://nodejs.org/en/download/)

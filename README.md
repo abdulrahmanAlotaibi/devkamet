@@ -1,4 +1,4 @@
-# Devkamet
+# Devkamet 🌄
 An interactive platform to learn the essentials of Computer Science, Data Structures, Algorithms, and Operating Systems using Golang
 
 ![screely-1621832305861](https://user-images.githubusercontent.com/50620277/120557382-7d8a5e00-c406-11eb-9733-41f27d43b3a8.png)
@@ -50,4 +50,7 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 ![screely-1620380999779](https://user-images.githubusercontent.com/50620277/120557503-b3c7dd80-c406-11eb-96e3-fb8791c71a8a.png)
 ![imagg](https://user-images.githubusercontent.com/50620277/120557585-d35f0600-c406-11eb-80b3-01d0499c85ee.jpg)
 ![screely-1617961830735](https://user-images.githubusercontent.com/50620277/120644582-2aed8800-c480-11eb-9e41-a7823f42695f.png)
-
+![screely-1620169425741](https://user-images.githubusercontent.com/50620277/120654496-6d1bc700-c48a-11eb-935a-887171eff894.png)
+![screely-1617958971917](https://user-images.githubusercontent.com/50620277/120654504-6f7e2100-c48a-11eb-9566-d0156058a749.png)
+![screely-1620168780952](https://user-images.githubusercontent.com/50620277/120654595-858be180-c48a-11eb-81cf-06edc07cd6fd.png)
+## **And so much more !**

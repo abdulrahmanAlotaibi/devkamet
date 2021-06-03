@@ -16,6 +16,7 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 | React 🖼    | Vue
 | TailwindCSS  ✨ | Sass, CSS in JS 
 | Node  ⚡   | Go
+| TypeScript
 | Express
 | Docker 🔹
 | AWS S3 Integration 📂 | FileSystem or any other storage solution 
@@ -24,6 +25,10 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 | Yarn 🎠
 | Cybress for testing 🧪
 
+Pre-requisite
+- [Docker](https://docs.docker.com/docker-for-windows/install/)
+- [Yarn](https://yarnpkg.com/)
+- [Node](https://nodejs.org/en/download/)
 
 ### Installation 
 1- to run the client app

@@ -12,9 +12,8 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 
 
 
-<a name="installation"/>
 
-## <h1 id="motivations">Motivations</> 🔭
+## <h1 id="motivations">Motivations</h1> 🔭
 - The lack of medium to large codebases to learn fullstack engineering
 - This is a product iteration that is **not completed yet**
 - Open source code for possible contributions
@@ -54,7 +53,7 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
   yarn dev
 ```
 
-## <h1 id="screenshots">Screenshots</> 📷
+## <h1 id="screenshots">Screenshots</h1> 📷
 
 ![screely-1620180020346](https://user-images.githubusercontent.com/50620277/120557466-a3affe00-c406-11eb-8bd5-b267e5f66e4b.png)
 ![screely-1617961341740](https://user-images.githubusercontent.com/50620277/120557485-ac083900-c406-11eb-96ff-01af51bb9daa.png)

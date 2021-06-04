@@ -9,8 +9,8 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 - [Installation : How to run DevKamet](#installation)
 - [Motivations 🔭](#motivations)
 - [Screenshots 📷](#screenshots)
-
-
+- [Frontend Architecture 📺](https://github.com/abdulrahmanAlotaibi/devkamet/tree/main/client) 
+- [Devkamet API 🤖](https://github.com/abdulrahmanAlotaibi/devkamet/tree/main/api)
 
 
 ## <h1 id="motivations">Motivations</h1> 🔭

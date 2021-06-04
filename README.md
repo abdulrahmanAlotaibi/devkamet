@@ -5,7 +5,16 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 
 ## 🎈 *Open source* Fullstack project to learn software engineering from front to back with large codebase!
 
-## Motivations 🔭
+## Index 👇
+- [Installation : How to run DevKamet](#installation)
+- [Motivations 🔭](#motivations)
+- [Screenshots 📷](#screenshots)
+
+
+
+<a name="installation"/>
+
+## <h1 id="motivations">Motivations</> 🔭
 - The lack of medium to large codebases to learn fullstack engineering
 - This is a product iteration that is **not completed yet**
 - Open source code for possible contributions
@@ -30,7 +39,8 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
 - [Yarn](https://yarnpkg.com/)
 - [Node](https://nodejs.org/en/download/)
 
-### Installation 
+## <h2 id="installation">Installation</h2> 
+
 1- to run the client app
 ```bash
   cd client 
@@ -44,7 +54,8 @@ An interactive platform to learn the essentials of Computer Science, Data Struct
   yarn dev
 ```
 
-### Screenshots 📸
+## <h1 id="screenshots">Screenshots</> 📷
+
 ![screely-1620180020346](https://user-images.githubusercontent.com/50620277/120557466-a3affe00-c406-11eb-8bd5-b267e5f66e4b.png)
 ![screely-1617961341740](https://user-images.githubusercontent.com/50620277/120557485-ac083900-c406-11eb-96ff-01af51bb9daa.png)
 ![screely-1620380999779](https://user-images.githubusercontent.com/50620277/120557503-b3c7dd80-c406-11eb-96e3-fb8791c71a8a.png)

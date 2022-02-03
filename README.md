@@ -1,5 +1,6 @@
 # Devkamet 🌄
-An interactive platform to learn the essentials of Computer Science, Data Structures, Algorithms, and Operating Systems using Golang
+An IDE engine which runs your code in any language (Go, Java, C++, Ruby, Scala, Python) and also a judge system to test the result of a code solution.
+
 
 ![screely-1621832305861](https://user-images.githubusercontent.com/50620277/120557382-7d8a5e00-c406-11eb-9733-41f27d43b3a8.png)
 

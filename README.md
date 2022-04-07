@@ -65,7 +65,6 @@ An IDE engine which runs your code in any language (Go, Java, C++, Ruby, Scala, 
 ![screely-1617958971917](https://user-images.githubusercontent.com/50620277/120654504-6f7e2100-c48a-11eb-9566-d0156058a749.png)
 ![screely-1620168780952](https://user-images.githubusercontent.com/50620277/120654595-858be180-c48a-11eb-81cf-06edc07cd6fd.png)
 ![screely-1617961451957](https://user-images.githubusercontent.com/50620277/162326498-17765757-9ccb-4130-aa25-4a8f82113092.png)
-![screely-1620381173393](https://user-images.githubusercontent.com/50620277/162326579-d972519e-d0c8-4d1f-b0b6-d3db4a2f276b.png)
 ![screely-1617961486503](https://user-images.githubusercontent.com/50620277/162326587-fe1a531a-45f9-486a-b569-10c65ec2fcbe.png)
 
 ## **And so much more !**
